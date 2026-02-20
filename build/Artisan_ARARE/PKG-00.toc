@@ -1,0 +1,83 @@
+('C:\\Artisan '
+ 'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\Artisan_ARARE.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\build\\Artisan_ARARE\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_usb',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_usb.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt6',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Artisan '
+   'Revolution\\ArtisanDev\\artisan\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('artisan',
+   'C:\\Artisan Revolution\\ArtisanDev\\artisan\\src\\artisan.py',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
