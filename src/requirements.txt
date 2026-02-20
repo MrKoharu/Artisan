@@ -62,7 +62,7 @@ pillow==12.1.1
 pydantic==2.12.5
 babel==2.18.0
 bleak==2.1.1
-python-statemachine==2.5.0
+python-statemachine==2.6.0
 yoctopuce==2.1.11632
 PyQt6==6.10.2
 PyQt6-WebEngine==6.10.0
